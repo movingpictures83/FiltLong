@@ -1,0 +1,5 @@
+basecalled.fastq.gz
+min_length 1000
+mean_q_weight 10
+keep_percent 90
+target_bases 50

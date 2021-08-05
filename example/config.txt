@@ -1,0 +1,2 @@
+Prefix plugins/FiltLong/example
+Plugin FiltLong inputfile parameters.txt outputfile longReads.fastq.gz
